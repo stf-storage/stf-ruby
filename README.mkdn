@@ -8,6 +8,11 @@ stf-ruby - A STF Dispatcher Implementation in Ruby
 
     rackup etc/dispatcher.ru
 
+## PREREQUISITES
+
+    httpclient
+    DBI
+
 ## DESCRIPTION
 
 THIS IS EXPERIMENTAL!
