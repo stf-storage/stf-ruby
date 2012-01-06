@@ -1,0 +1,15 @@
+# README
+
+## NAME
+
+stf-ruby - A STF Dispatcher Implementation in Ruby
+
+## SYNOPSIS
+
+    rackup etc/dispatcher.ru
+
+## DESCRIPTION
+
+THIS IS EXPERIMENTAL!
+
+Implements STF in Ruby. GET/PUT/POST/DELETE is currently implemented, but backend features (workers, queues) are not there yet. Patches welcome!
